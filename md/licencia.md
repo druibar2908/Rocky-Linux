@@ -1,1 +1,1 @@
-
+![Licencia](/imagenes/licencia.png)
